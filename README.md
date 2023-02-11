@@ -1,4 +1,4 @@
-<div width="100%" align="center"><img src="https://github.com/smafsani/smafsani/blob/main/LogoBanner.png"></div>
+<div width="100%" align="center"><img src="https://github.com/smafsani/smafsani/blob/main/MyLogoBanner.png"></div>
 <h1 align="center">Hi 👋, I'm Syed Md. Afsani</h1>
 <h3 align="center">A passionate web developer  from Bangladesh.</h3>
 
