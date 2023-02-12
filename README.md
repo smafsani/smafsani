@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer  from Bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/RipeChiefCrow-max-1mb.gif">
-
+<br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smafsani&label=Profile%20views&color=0e75b6&style=flat" alt="smafsani" /> </p> -->
 
 - 🌱 I’m currently working on **Web Development**
