@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/syed.mdafsani.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afsani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-md-afsani-7a5081240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-md-afsani-7a5081240" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afsani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-md-afsani-7a5081240" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/syed_afsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="syed_afsani" height="30" width="40" /></a>
 </p>
 
